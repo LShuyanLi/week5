@@ -1,9 +1,9 @@
 import Image from "@/app/shared/components/image"
 
 export default function Home() {
-  return (
-   <div>Project Start
-    <Image></Image>
-   </div>
-  );
+    return(
+        <div>
+            <Image></Image>
+        </div>
+    )
 }
