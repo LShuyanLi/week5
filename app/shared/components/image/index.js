@@ -44,6 +44,7 @@ export default function Image(){
             <div>bio...............</div>
         </div>
         </div>
+
    </div>
     )
     
